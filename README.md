@@ -11,3 +11,18 @@
 [Databricks Spark 知识库](https://aiyanbo.gitbooks.io/databricks-spark-knowledge-base-zh-cn/content/index.html)
 
 [spark相关ppt合集](https://dzone.com/articles/smack-stack-guide)
+
+
+大数据博客
+
+[pivotal](https://blog.pivotal.io/)
+
+[databricks blog](https://databricks.com/blog)
+
+[HDP](http://hortonworks.com/blog/)
+
+[HDP top 10 blogs](http://zh.hortonworks.com/blog/top-ten-blogs-from-2015/)
+
+[intel BigData](https://software.intel.com/en-us/bigdata/apache-big-data-stack)
+
+[spring](http://spring.io/blog)
