@@ -26,3 +26,5 @@
 [intel BigData](https://software.intel.com/en-us/bigdata/apache-big-data-stack)
 
 [spring](http://spring.io/blog)
+
+[dzone big data analytics](https://dzone.com/big-data-analytics-tutorials-tools-news)
