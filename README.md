@@ -9,3 +9,5 @@
 [spark性能优化](http://www.raychase.net/3546)
 
 [Databricks Spark 知识库](https://aiyanbo.gitbooks.io/databricks-spark-knowledge-base-zh-cn/content/index.html)
+
+[spark相关ppt合集](https://dzone.com/articles/smack-stack-guide)
