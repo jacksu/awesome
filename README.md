@@ -12,6 +12,8 @@
 
 [spark相关ppt合集](https://dzone.com/articles/smack-stack-guide)
 
+[经典论文翻译](http://duanple.blog.163.com)
+
 
 大数据博客
 
