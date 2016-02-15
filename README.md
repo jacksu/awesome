@@ -2,8 +2,6 @@
 
 [star manager](https://app.astralapp.com/dashboard)
 
-[spark shuffle](http://0x0fff.com/spark-architecture-shuffle/)
-
 [Kafka解析](http://zqhxuyuan.github.io/2016/01/13/2016-01-13-Kafka-Picture/)
 
 [spark性能优化](http://www.raychase.net/3546)
@@ -15,7 +13,7 @@
 [经典论文翻译](http://duanple.blog.163.com)
 
 
-大数据博客
+##大数据博客
 
 [pivotal](https://blog.pivotal.io/)
 
@@ -31,6 +29,6 @@
 
 [dzone big data analytics](https://dzone.com/big-data-analytics-tutorials-tools-news)
 
-spark优秀blog
+###spark优秀blog
 
 [0ffff](http://0x0fff.com)
