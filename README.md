@@ -32,3 +32,9 @@
 ###spark优秀blog
 
 [0ffff](http://0x0fff.com)
+
+[鸟窝](http://colobu.com)
+
+###java相关blog
+
+[importnew](http://www.importnew.com)
