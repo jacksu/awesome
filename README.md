@@ -29,6 +29,12 @@
 
 [dzone big data analytics](https://dzone.com/big-data-analytics-tutorials-tools-news)
 
+[twitter engineer blog](https://blog.twitter.com/engineering)
+
+[linkedin blog](https://engineering.linkedin.com/blog)
+
+[getindata](http://getindata.com/category/blog/post/)
+
 ###spark优秀blog
 
 [0ffff](http://0x0fff.com)
