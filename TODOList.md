@@ -7,3 +7,6 @@
 ##spark
 
 [*][tachyon in spark](https://dzone.com/articles/Accelerate-In-Memory-Processing-with-Spark-from-Hours-to-Seconds-With-Tachyon)
+
+##Kafka
+[stream platform](http://www.confluent.io/blog/stream-data-platform-1/)
