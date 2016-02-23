@@ -43,6 +43,8 @@
 
 [twitter数据工程师](https://medium.com/@rchang)
 
+[blue sky spark&kafka](http://hadoop1989.com)
+
 ###java相关blog
 
 [importnew](http://www.importnew.com)
