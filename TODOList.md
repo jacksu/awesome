@@ -10,3 +10,7 @@
 
 ##Kafka
 [stream platform](http://www.confluent.io/blog/stream-data-platform-1/)
+
+##Streaming
+
+[Life of a Message in MapR Streams](https://www.mapr.com/blog/life-message-mapr-streams)
