@@ -50,3 +50,9 @@
 ###java相关blog
 
 [importnew](http://www.importnew.com)
+
+###Kafka
+
+[Kafka源码解析](http://zqhxuyuan.github.io/)
+
+[confluent blog](http://www.confluent.io/blog)
