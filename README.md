@@ -12,6 +12,8 @@
 
 [经典论文翻译](http://duanple.blog.163.com)
 
+[IT牛人博客聚集](http://www.udpwork.com)
+
 
 ##大数据博客
 
