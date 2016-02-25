@@ -8,6 +8,8 @@
 
 [*][tachyon in spark](https://dzone.com/articles/Accelerate-In-Memory-Processing-with-Spark-from-Hours-to-Seconds-With-Tachyon)
 
+[type safety on spark dataframe](http://www.51zero.com/blog/2016/2/24/type-safety-on-spark-dataframes-part-1)
+
 ##Kafka
 [stream platform](http://www.confluent.io/blog/stream-data-platform-1/)
 
