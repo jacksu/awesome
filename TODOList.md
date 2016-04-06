@@ -16,3 +16,5 @@
 ##Streaming
 
 [Life of a Message in MapR Streams](https://www.mapr.com/blog/life-message-mapr-streams)
+
+[http://blog.csdn.net/yangqicong11/article/details/10491389](http://blog.csdn.net/yangqicong11/article/details/10491389)
