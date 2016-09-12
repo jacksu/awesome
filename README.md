@@ -37,6 +37,8 @@
 
 [getindata](http://getindata.com/category/blog/post/)
 
+[stack Overflow“数据科学家”](http://varianceexplained.org/r/polarizing-technologies/)
+
 ###spark优秀blog
 
 [0ffff](http://0x0fff.com)
