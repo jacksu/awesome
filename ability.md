@@ -29,6 +29,9 @@
 
 [利用Docker开启持续交付之路](http://insights.thoughtworkers.org/start-continuous-delivery-with-docker/)
 
+##监控
+[grafana](http://grafana.org/)
+
 #软技能
 ##PPT能力
 
