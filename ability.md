@@ -1,9 +1,15 @@
+技术能力的学习扩展，是枣核理论的中间层。
+
 #技术能力
-##爬虫
+##数据采集
+###爬虫
 
 [python网络爬虫](http://blog.csdn.net/pleasecallmewhy/article/details/8922826)
 
 [Python爬虫学习系列教程](http://cuiqingcai.com/1052.html)
+##发布部署
+
+[利用Docker开启持续交付之路](http://insights.thoughtworkers.org/start-continuous-delivery-with-docker/)
 
 #软技能
 ##PPT能力
