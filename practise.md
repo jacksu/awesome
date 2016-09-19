@@ -1,3 +1,3 @@
 ##架构
 
-[《架构师成长之路》连载漫画](http://www.jianshu.com/notebooks/2949459/latest)--原理的灵活使用
+[《架构师成长之路》连载漫画](http://www.jianshu.com/notebooks/2949459/latest)--1）原理灵活使用；2）根据资源制定架构实现方案，别的公司适合，不一定在自己公司适合
