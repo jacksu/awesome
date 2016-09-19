@@ -12,7 +12,18 @@
 ###kafka
 [Kafka vs RocketMQ—— Topic数量对单机性能的影响](https://yq.aliyun.com/articles/25379)
 
+[Kafka解析](http://zqhxuyuan.github.io/2016/01/13/2016-01-13-Kafka-Picture/)
+
 [How to choose the number of topics/partitions in a Kafka cluster?](http://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/)
+
+##数据计算
+###spark
+
+[spark性能优化](http://www.raychase.net/3546)
+
+[Databricks Spark 知识库](https://aiyanbo.gitbooks.io/databricks-spark-knowledge-base-zh-cn/content/index.html)
+
+[spark相关ppt合集](https://dzone.com/articles/smack-stack-guide)
 
 ##发布部署
 
