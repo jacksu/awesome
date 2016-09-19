@@ -5,3 +5,11 @@
 [git冲突解决](http://www.cnblogs.com/sinojelly/archive/2011/08/07/2130172.html)
 
 [BeyondCompare使用介绍](https://segmentfault.com/a/1190000002951154)
+
+##图片收集
+
+[图片处理网站](https://photoeditor.polarr.co/)
+
+[图片搜索](thestocks.im)
+
+[ppt素材](http://hippter.com/)
