@@ -15,3 +15,7 @@
 [图片搜索](thestocks.im)
 
 [ppt素材](http://hippter.com/)
+
+[www.pixabay.com](www.pixabay.com)
+
+[www.pexels.com](www.pexels.com)
