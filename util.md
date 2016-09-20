@@ -19,3 +19,9 @@
 [www.pixabay.com](https://www.pixabay.com)
 
 [https://www.pexels.com/](https://www.pexels.com/)
+
+[https://alpha.wallhaven.cc/](https://alpha.wallhaven.cc/)
+
+[http://theinspirationgrid.com/](http://theinspirationgrid.com/)
+
+[https://500px.com](https://500px.com)
