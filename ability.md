@@ -25,6 +25,8 @@
 
 [spark相关ppt合集](https://dzone.com/articles/smack-stack-guide)
 
+[kerbros](https://github.com/zouhc/MyHadoop/blob/master/doc/Hadoop%E7%9A%84kerberos%E7%9A%84%E5%AE%9E%E8%B7%B5%E9%83%A8%E7%BD%B2.md)
+
 ##发布部署
 
 [利用Docker开启持续交付之路](http://insights.thoughtworkers.org/start-continuous-delivery-with-docker/)
