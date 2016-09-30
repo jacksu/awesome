@@ -27,6 +27,8 @@
 
 [kerbros](https://github.com/zouhc/MyHadoop/blob/master/doc/Hadoop%E7%9A%84kerberos%E7%9A%84%E5%AE%9E%E8%B7%B5%E9%83%A8%E7%BD%B2.md)
 
+##微服务
+[实施微服务，我们需要哪些基础框架？](http://www.infoq.com/cn/articles/basis-frameworkto-implement-micro-service)
 ##发布部署
 
 [利用Docker开启持续交付之路](http://insights.thoughtworkers.org/start-continuous-delivery-with-docker/)
