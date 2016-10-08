@@ -25,6 +25,8 @@
 
 [spark相关ppt合集](https://dzone.com/articles/smack-stack-guide)
 
+##安全认证
+
 [kerbros](https://github.com/zouhc/MyHadoop/blob/master/doc/Hadoop%E7%9A%84kerberos%E7%9A%84%E5%AE%9E%E8%B7%B5%E9%83%A8%E7%BD%B2.md)
 
 ##微服务
