@@ -36,6 +36,9 @@
 ##监控
 [grafana](http://grafana.org/)
 
+##java
+[如何排查Java内存泄露(内附各种排查工具介绍)](https://yq.aliyun.com/articles/61148?spm=5176.100238.goodcont.44.A6BHpI)
+
 #软技能
 ##PPT能力
 
