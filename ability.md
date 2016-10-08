@@ -16,6 +16,10 @@
 
 [How to choose the number of topics/partitions in a Kafka cluster?](http://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/)
 
+##数据存储
+###ElasticSearch
+[Elasticsearch Optimization Checklist](https://github.com/garyelephant/blog/blob/master/elasticsearch_optimization_checklist.md)
+
 ##数据计算
 ###spark
 
