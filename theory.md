@@ -4,6 +4,8 @@
 
 [CAP原理](https://www.zybuluo.com/jewes/note/68185)
 
+[斯坦福课程-大规模系统](https://cs.stanford.edu/~matei/courses/2015/6.S897/)
+
 #部署
 
 [蓝绿部署](http://leaver.me/2014/09/14/%E8%93%9D%E7%BB%BF%E5%8F%91%E5%B8%83%E7%9A%84%E6%95%B4%E4%B8%AA%E9%83%A8%E7%BD%B2%E8%BF%87%E7%A8%8B/)
