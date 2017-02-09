@@ -7,7 +7,8 @@
 [python网络爬虫](http://blog.csdn.net/pleasecallmewhy/article/details/8922826)
 
 [Python爬虫学习系列教程](http://cuiqingcai.com/1052.html)
-
+###日志采集
+[nifi](https://github.com/apache/nifi)
 ##数据缓存
 ###kafka
 [Kafka vs RocketMQ—— Topic数量对单机性能的影响](https://yq.aliyun.com/articles/25379)
