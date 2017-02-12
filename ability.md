@@ -1,6 +1,7 @@
 技术能力的学习扩展，是枣核理论的中间层。
 
 #技术能力
+[All the Apache Streaming Projects: An Exploratory Guide](http://thenewstack.io/apache-streaming-projects-exploratory-guide/)
 ##数据采集
 ###爬虫
 
