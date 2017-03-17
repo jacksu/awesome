@@ -3,6 +3,7 @@
 #技术能力
 [All the Apache Streaming Projects: An Exploratory Guide](http://thenewstack.io/apache-streaming-projects-exploratory-guide/)
 [用于实时大数据处理的Lambda架构](http://blog.csdn.net/brucesea/article/details/45937875)
+
 ##数据采集
 
 ###爬虫
