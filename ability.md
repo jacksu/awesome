@@ -2,15 +2,20 @@
 
 #技术能力
 [All the Apache Streaming Projects: An Exploratory Guide](http://thenewstack.io/apache-streaming-projects-exploratory-guide/)
+[用于实时大数据处理的Lambda架构](http://blog.csdn.net/brucesea/article/details/45937875)
 ##数据采集
+
 ###爬虫
 
 [python网络爬虫](http://blog.csdn.net/pleasecallmewhy/article/details/8922826)
 
 [Python爬虫学习系列教程](http://cuiqingcai.com/1052.html)
+
 ###日志采集
 [nifi](https://github.com/apache/nifi)
+
 ##数据缓存
+
 ###kafka
 [Kafka vs RocketMQ—— Topic数量对单机性能的影响](https://yq.aliyun.com/articles/25379)
 
@@ -19,10 +24,12 @@
 [How to choose the number of topics/partitions in a Kafka cluster?](http://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/)
 
 ##数据存储
+
 ###ElasticSearch
 [Elasticsearch Optimization Checklist](https://github.com/garyelephant/blog/blob/master/elasticsearch_optimization_checklist.md)
 
 ##数据计算
+
 ###spark
 
 [spark性能优化](http://www.raychase.net/3546)
@@ -50,6 +57,7 @@
 [如何排查Java内存泄露(内附各种排查工具介绍)](https://yq.aliyun.com/articles/61148?spm=5176.100238.goodcont.44.A6BHpI)
 
 #软技能
+
 ##PPT能力
 
 [让你的PPT图片学会说话](http://www.jianshu.com/p/3e2623160491)
