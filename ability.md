@@ -43,6 +43,8 @@
 
 [kerbros](https://github.com/zouhc/MyHadoop/blob/master/doc/Hadoop%E7%9A%84kerberos%E7%9A%84%E5%AE%9E%E8%B7%B5%E9%83%A8%E7%BD%B2.md)
 
+[ldap ssl](http://mosquito.blog.51cto.com/2973374/1098456)
+
 ### SSL
 [.dem .key](https://serverfault.com/questions/9708/what-is-a-pem-file-and-how-does-it-differ-from-other-openssl-generated-key-file)
 
