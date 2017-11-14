@@ -5,3 +5,5 @@
 [HDFS写一致性](http://hadoop-common.472056.n3.nabble.com/Confusion-between-dfs-replication-and-dfs-namenode-replication-min-options-in-hdfs-site-xml-td4124375.html)
 
 [HDFS写异常恢复](http://bigdatadecode.club/[%E8%AF%91]HDFS%E6%81%A2%E5%A4%8D%E8%BF%87%E7%A8%8B1.html)
+
+[A Secure HDFS Client Example](http://henning.kropponline.de/2016/02/14/a-secure-hdfs-client-example/)
