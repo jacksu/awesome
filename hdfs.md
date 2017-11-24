@@ -9,3 +9,5 @@
 [A Secure HDFS Client Example](http://henning.kropponline.de/2016/02/14/a-secure-hdfs-client-example/)
 
 [ZooKeeper一致性原理](http://www.cnblogs.com/sunddenly/p/4138580.html)
+
+[ZK Client：Curator框架应用](http://colobu.com/2014/12/16/zookeeper-recipes-by-example-8/)
