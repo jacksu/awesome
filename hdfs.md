@@ -11,3 +11,5 @@
 [ZooKeeper一致性原理](http://www.cnblogs.com/sunddenly/p/4138580.html)
 
 [ZK Client：Curator框架应用](http://colobu.com/2014/12/16/zookeeper-recipes-by-example-8/)
+
+[HDFS Tutorial: Read & Write Commands using Java API](https://www.guru99.com/learn-hdfs-a-beginners-guide.html)
