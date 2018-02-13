@@ -15,3 +15,5 @@
 [HDFS Tutorial: Read & Write Commands using Java API](https://www.guru99.com/learn-hdfs-a-beginners-guide.html)
 
 [美团Hadoop安全实践](https://tech.meituan.com/hadoop-security-practice.html)
+
+[Journalnode](http://blog.csdn.net/androidlushangderen/article/details/48415073)
