@@ -14,3 +14,6 @@
 
 [SpringBoot HelloWorld](http://www.majiang.life/blog/spring-boot-get-started/)
 
+## SpringCloud
+
+[ 史上最简单的 SpringCloud 教程 | 终章](http://blog.csdn.net/forezp/article/details/70148833)
