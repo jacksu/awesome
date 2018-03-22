@@ -17,3 +17,8 @@
 ## SpringCloud
 
 [ 史上最简单的 SpringCloud 教程 | 终章](http://blog.csdn.net/forezp/article/details/70148833)
+
+[xxproject](https://github.com/junneyang/xxproject)---
+SpringCloud 微服务综合实例。分布式配置中心，服务发现&负载均衡，链路断路器，API网关，OAuth2认证授权，分布式追踪，ELK日志中心，Ansible/Docker持续交付等最佳实践
+
+[spring-cloud](http://www.ityouknow.com/spring-cloud.html)---spring cloud介绍
