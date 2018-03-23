@@ -1,5 +1,9 @@
 [java相关知识总结](https://letcheng.github.io/2016/06/11/jvm-param.html)
 
+## 基础知识
+### Annotation
+[秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
+
 ## NIO
 
 [Java NIO浅析](https://tech.meituan.com/nio.html)
