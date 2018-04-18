@@ -4,6 +4,11 @@
 ### Annotation
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
 
+### servlet
+[servlet的本质是什么?](https://www.zhihu.com/question/21416727)
+
+[深入理解ServletRequest与ServletResponse](http://blog.51cto.com/lavasoft/275586)
+
 ## NIO
 
 [Java NIO浅析](https://tech.meituan.com/nio.html)
